@@ -118,7 +118,7 @@ HTMLActuator.prototype.addTile = function (tile) {
     })();
   }
 
-  if (tile.value > 2048) classes.push("tile-super");
+  if (tile.value > 524288) classes.push("tile-super");
 
   this.applyClasses(wrapper, classes);
 
