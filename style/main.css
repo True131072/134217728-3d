@@ -794,7 +794,7 @@ hr {
 }
 .tile.tile-bonus.tile-262144 .cube-face {
   background: #f9f6f2;
-  color: #9d97ff;
+  color: #9290ff;
 }
 @media screen and (max-width: 520px) {
   .tile.tile-262144 .cube-face {
@@ -809,7 +809,7 @@ hr {
 }
 .tile.tile-bonus.tile-524288 .cube-face {
   background: #f9f6f2;
-  color: #9d97ff;
+  color: #5d52ff;
 }
 @media screen and (max-width: 520px) {
   .tile.tile-524288 .cube-face {
